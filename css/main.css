@@ -1,0 +1,35 @@
+body{
+	color:#2E2E2E;
+}
+header{
+	background-color:#F5DA81;
+	margin-bottom: 5px;
+	text-align: center;
+	font-family: 'Times New Roman';
+}
+h1{
+	padding: 0.8em 0;
+}
+.panel{
+	border: solid 1px #ccc;
+	box-shadow: 1px 1px 1px #ccc;
+	background-color: #F5DA81;
+	opacity: 0.8;
+	border-radius: 8px;
+	font-family: 'Times New Roman';
+	
+}
+
+.cabecera{
+	border-bottom: solid 1px #0404B4;
+}
+.contenido{
+	text-align: center;
+}
+
+.compra{
+	color: #04B404;
+}
+.venta{
+	color: #DF01D7;
+}
